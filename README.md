@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rbeautelus1
 - 👀 I’m interested in sports, reading novels, creating projects, and coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a Hackathon in the near future
+- 🌱 I Love working with machine learning programs and creating web designs.
+- 💞️ I am a hackathon fanatic
 - 📫 How to reach me: robertbeautelus4@gmail.com or robert2.beautelus@famu.edu
 
 <!---
